@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Hi there 👋, TOCHUKWU ORIZU
+### Hi there 👋, I'M TOCHUKWU ORIZU
 #### I'M FULL-STACK SOFTWARE DEVELOPER STUDENT 
 
 
