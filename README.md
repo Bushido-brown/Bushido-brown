@@ -7,7 +7,6 @@ I'M TOCHUKWU ORIZU
 
 I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELOPMENT PROGRAM THAT USES PAIR PROGRAMMING AND PROJECT BUILDING TO TEACH DEVELOPMENT IN A MULTICULTURAL ENVIRONMENT AND SHOW YOU THE ROAD MAP TO BECOMING A SEASONED DEVELOPER THROUGH PAIR PROGRAMMING. I LOVE THE ABILITY TO CREATE REALITY FROM AN IDEA THAT CAN CHANGE THE WORLD. CREATIVITY IS NOT MY ONLY PASSION, I ALSO LOVE FOOTBALL, SINGING, AND PLAYING VIDEO GAMES WITH FRIENDS. I HOPE TO MAKE THE WORLD A BETTER PLACE TO LIVE IN WITH THE SKILLS I AQUIRE.
 
-Skills:  JS / HTML / CSS
 
 ⚡ I like 👨‍💻 : Coding | 🎮 : Gaming | ⛹️‍♂️: Basketball | 🏊 : Swimming
 
@@ -15,7 +14,6 @@ Skills:  JS / HTML / CSS
 
 ### Back-End
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ### Front-End
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,13 +22,8 @@ Skills:  JS / HTML / CSS
 
 ### Frameworks and Libraries
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
    ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Databases
-   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    
 ### Tools
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
