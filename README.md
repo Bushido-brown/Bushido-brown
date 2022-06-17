@@ -32,10 +32,6 @@ I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVEL
 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bushido-brown)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tochukwu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tuzyorizu)
-
-
 [![Bushido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bushido-brown)](https://github.com/Bushido-brown/github-readme-stats)
 ![Bushido's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bushido-brown&theme=blue-green)
 
@@ -49,8 +45,5 @@ I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVEL
     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/tuzyorizu" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:r.m.orizut@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
   </div>
 </div>
