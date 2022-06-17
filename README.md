@@ -43,7 +43,7 @@ I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVEL
 
 <div>
   <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/tochukwu-orizu-57352120b/" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/tochukwu-orizu-52187013a" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/tuzyorizu" target="_blank">
