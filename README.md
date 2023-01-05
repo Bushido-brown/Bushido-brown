@@ -15,6 +15,7 @@ I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVEL
 ### Back-End
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white)
 ### Front-End
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +24,8 @@ I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVEL
 ### Frameworks and Libraries
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+   ![Rails](https://img.shields.io/badge/rails-FF0000?style=for-the-badge&logo=rails&logoColor=white)
+   ![React](https://img.shields.io/badge/react-50DA11?style=for-the-badge&logo=react&logoColor=white)
 
    
 ### Tools
