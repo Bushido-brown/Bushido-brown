@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-I'M TOCHUKWU ORIZU
-#### I'M FULL-STACK SOFTWARE DEVELOPER STUDENT 
+I'm Tochukwu Orizu
+#### I'M FULL-STACK SOFTWARE DEVELOPER
 
 
-I'M TOCHUKWU FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELOPMENT PROGRAM THAT USES PAIR PROGRAMMING AND PROJECT BUILDING TO TEACH DEVELOPMENT IN A MULTICULTURAL ENVIRONMENT AND SHOW YOU THE ROAD MAP TO BECOMING A SEASONED DEVELOPER THROUGH PAIR PROGRAMMING. I LOVE THE ABILITY TO CREATE REALITY FROM AN IDEA THAT CAN CHANGE THE WORLD. CREATIVITY IS NOT MY ONLY PASSION, I ALSO LOVE FOOTBALL, SINGING, AND PLAYING VIDEO GAMES WITH FRIENDS. I HOPE TO MAKE THE WORLD A BETTER PLACE TO LIVE IN WITH THE SKILLS I AQUIRE.
+I'm Tochukwu from Nigeria, I am a student at Microverse, a remote Software Development program that uses pair Programming and project building to teach development in a multicultural environment and show you the road map to becoming a seasoned developer through pair Programming. I love the ability to create reality from an idea that can change the WORLD. Creativity is not my only passion, I also love Football, Singing, and playing video games with friends. I hope to make the World a better place to live in with the skills I aquire.
 
 
 ⚡ I like 👨‍💻 : Coding | 🎮 : Gaming | ⛹️‍♂️: Basketball | 🏊 : Swimming
