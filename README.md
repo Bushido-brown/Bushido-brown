@@ -48,7 +48,7 @@ I'm Tochukwu from Nigeria, I am a student at Microverse, a remote Software Devel
     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/tuzyorizu" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
-     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://gmail.com/" target="_blank">
+     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://orizut@gmail.com" target="_blank">
      <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'/>
     </a>
   </div>
